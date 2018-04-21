@@ -8,3 +8,5 @@ This is an all-in-one super market billing system.
 ### Used tools:
 
 * Code Editor: [Devcpp](http://devcpp.io) 
+
+* PASSWORD: [ghrce2007]
